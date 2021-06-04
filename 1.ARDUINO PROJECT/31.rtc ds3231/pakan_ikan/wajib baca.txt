@@ -1,0 +1,22 @@
+2 kali upload
+
+
+upload pertama  untuk set waktu rtc
+  hilangkan ( // date time dan // rtc.setdatetime) 
+ DateTime dt(2020, 10, 24, 8, 30, 0, 7); // set tanggal dan waktu (format): tahun, bulan tanggal, jam, menit, detik, hari (1=minggu, 7=sabtu)
+ rtc.setDateTime(dt);
+
+lalu upload
+
+upload ke 2 untuk set waktu pakan
+
+kembalikan ( // date time dan // rtc.setdatetime)
+ // DateTime dt(2020, 10, 24, 8, 30, 0, 7); // set tanggal dan waktu (format): tahun, bulan tanggal, jam, menit, detik, hari (1=minggu, 7=sabtu)
+ // rtc.setDateTime(dt);
+
+lalu
+   // set waktu saja (0,1,1, jam, menit,detik,0) format 24 jam
+
+#define waktuMakan1                   DateTime(0, 1, 1,  8, 37, 0, 0)//jam 8.37 pagi 
+#define waktuMakan2                   DateTime(0, 1, 1, 8, 42, 0, 0)//jam 8.42 pagi
+upload

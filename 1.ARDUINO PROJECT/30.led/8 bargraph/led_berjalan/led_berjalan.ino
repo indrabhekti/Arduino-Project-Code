@@ -1,0 +1,272 @@
+int de = 200;
+int id = 350;
+void setup() {
+ pinMode(2, OUTPUT); // LED 1
+ pinMode(3, OUTPUT); // LED 2
+ pinMode(4, OUTPUT); // LED 3
+ pinMode(5, OUTPUT); // LED 4
+ pinMode(6, OUTPUT); // LED 5
+ pinMode(7, OUTPUT); // LED 6
+ pinMode(8, OUTPUT); // LED 7
+ pinMode(9, OUTPUT); // LED 8
+
+}
+
+void loop() {
+ digitalWrite(2, HIGH); 
+delay(de);
+digitalWrite(2, LOW);
+digitalWrite(3, HIGH);
+delay(de);
+digitalWrite(3, LOW);
+digitalWrite(4, HIGH);
+delay(de);
+digitalWrite(4, LOW);
+digitalWrite(5, HIGH);
+delay(de);
+digitalWrite(5, LOW);
+digitalWrite(6, HIGH);
+delay(de);
+digitalWrite(6, LOW);
+digitalWrite(7, HIGH);
+delay(de);
+digitalWrite(7, LOW);
+digitalWrite(8, HIGH);
+delay(de);
+digitalWrite(8, LOW);
+digitalWrite(9, HIGH);
+delay(de);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH); 
+delay(de);
+digitalWrite(2, LOW);
+digitalWrite(3, HIGH);
+delay(de);
+digitalWrite(3, LOW);
+digitalWrite(4, HIGH);
+delay(de);
+digitalWrite(4, LOW);
+digitalWrite(5, HIGH);
+delay(de);
+digitalWrite(5, LOW);
+digitalWrite(6, HIGH);
+delay(de);
+digitalWrite(6, LOW);
+digitalWrite(7, HIGH);
+delay(de);
+digitalWrite(7, LOW);
+digitalWrite(8, HIGH);
+delay(de);
+digitalWrite(8, LOW);
+digitalWrite(9, HIGH);
+delay(de);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH); 
+delay(de);
+digitalWrite(2, LOW);
+digitalWrite(3, HIGH);
+delay(de);
+digitalWrite(3, LOW);
+digitalWrite(4, HIGH);
+delay(de);
+digitalWrite(4, LOW);
+digitalWrite(5, HIGH);
+delay(de);
+digitalWrite(5, LOW);
+digitalWrite(6, HIGH);
+delay(de);
+digitalWrite(6, LOW);
+digitalWrite(7, HIGH);
+delay(de);
+digitalWrite(7, LOW);
+digitalWrite(8, HIGH);
+delay(de);
+digitalWrite(8, LOW);
+digitalWrite(9, HIGH);
+delay(de);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH); 
+delay(de);
+digitalWrite(2, LOW);
+digitalWrite(3, HIGH);
+delay(de);
+digitalWrite(3, LOW);
+digitalWrite(4, HIGH);
+delay(de);
+digitalWrite(4, LOW);
+digitalWrite(5, HIGH);
+delay(de);
+digitalWrite(5, LOW);
+digitalWrite(6, HIGH);
+delay(de);
+digitalWrite(6, LOW);
+digitalWrite(7, HIGH);
+delay(de);
+digitalWrite(7, LOW);
+digitalWrite(8, HIGH);
+delay(de);
+digitalWrite(8, LOW);
+digitalWrite(9, HIGH);
+delay(de);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH); 
+delay(de);
+digitalWrite(2, LOW);
+digitalWrite(3, HIGH);
+delay(de);
+digitalWrite(3, LOW);
+digitalWrite(4, HIGH);
+delay(de);
+digitalWrite(4, LOW);
+digitalWrite(5, HIGH);
+delay(de);
+digitalWrite(5, LOW);
+digitalWrite(6, HIGH);
+delay(de);
+digitalWrite(6, LOW);
+digitalWrite(7, HIGH);
+delay(de);
+digitalWrite(7, LOW);
+digitalWrite(8, HIGH);
+delay(de);
+digitalWrite(8, LOW);
+digitalWrite(9, HIGH);
+delay(de);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH); 
+delay(de);
+digitalWrite(2, LOW);
+digitalWrite(3, HIGH);
+delay(de);
+digitalWrite(3, LOW);
+digitalWrite(4, HIGH);
+delay(de);
+digitalWrite(4, LOW);
+digitalWrite(5, HIGH);
+delay(de);
+digitalWrite(5, LOW);
+digitalWrite(6, HIGH);
+delay(de);
+digitalWrite(6, LOW);
+digitalWrite(7, HIGH);
+delay(de);
+digitalWrite(7, LOW);
+digitalWrite(8, HIGH);
+delay(de);
+digitalWrite(8, LOW);
+digitalWrite(9, HIGH);
+delay(de);
+digitalWrite(9, LOW);
+
+
+digitalWrite(2, HIGH);
+digitalWrite(6, HIGH);
+delay(id);
+digitalWrite(2, LOW);
+digitalWrite(6, LOW);
+digitalWrite(3, HIGH);
+digitalWrite(7, HIGH);
+delay(id);
+digitalWrite(3, LOW);
+digitalWrite(7, LOW);
+digitalWrite(4, HIGH);
+digitalWrite(8, HIGH);
+delay(id);
+digitalWrite(4, LOW);
+digitalWrite(8, LOW);
+digitalWrite(5, HIGH);
+digitalWrite(9, HIGH);
+delay(id);
+digitalWrite(5, LOW);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH);
+digitalWrite(6, HIGH);
+delay(id);
+digitalWrite(2, LOW);
+digitalWrite(6, LOW);
+digitalWrite(3, HIGH);
+digitalWrite(7, HIGH);
+delay(id);
+digitalWrite(3, LOW);
+digitalWrite(7, LOW);
+digitalWrite(4, HIGH);
+digitalWrite(8, HIGH);
+delay(id);
+digitalWrite(4, LOW);
+digitalWrite(8, LOW);
+digitalWrite(5, HIGH);
+digitalWrite(9, HIGH);
+delay(id);
+digitalWrite(5, LOW);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH);
+digitalWrite(6, HIGH);
+delay(id);
+digitalWrite(2, LOW);
+digitalWrite(6, LOW);
+digitalWrite(3, HIGH);
+digitalWrite(7, HIGH);
+delay(id);
+digitalWrite(3, LOW);
+digitalWrite(7, LOW);
+digitalWrite(4, HIGH);
+digitalWrite(8, HIGH);
+delay(id);
+digitalWrite(4, LOW);
+digitalWrite(8, LOW);
+digitalWrite(5, HIGH);
+digitalWrite(9, HIGH);
+delay(id);
+digitalWrite(5, LOW);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH);
+digitalWrite(6, HIGH);
+delay(id);
+digitalWrite(2, LOW);
+digitalWrite(6, LOW);
+digitalWrite(3, HIGH);
+digitalWrite(7, HIGH);
+delay(id);
+digitalWrite(3, LOW);
+digitalWrite(7, LOW);
+digitalWrite(4, HIGH);
+digitalWrite(8, HIGH);
+delay(id);
+digitalWrite(4, LOW);
+digitalWrite(8, LOW);
+digitalWrite(5, HIGH);
+digitalWrite(9, HIGH);
+delay(id);
+digitalWrite(5, LOW);
+digitalWrite(9, LOW);
+
+digitalWrite(2, HIGH);
+digitalWrite(6, HIGH);
+delay(id);
+digitalWrite(2, LOW);
+digitalWrite(6, LOW);
+digitalWrite(3, HIGH);
+digitalWrite(7, HIGH);
+delay(id);
+digitalWrite(3, LOW);
+digitalWrite(7, LOW);
+digitalWrite(4, HIGH);
+digitalWrite(8, HIGH);
+delay(id);
+digitalWrite(4, LOW);
+digitalWrite(8, LOW);
+digitalWrite(5, HIGH);
+digitalWrite(9, HIGH);
+delay(id);
+digitalWrite(5, LOW);
+digitalWrite(9, LOW);
+
+}
